@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": 101,
+        "user_name": "IBR",
+        "password": "$2b$12$ywNOvL1MeH88X7zGyUT3R.5YA4EKXgHe4zTzGm/Obs7VfQhVFZARm",
+        "name": "Ibrahim",
+        "last_name": "Hanif",
+        "role": "s",
+        "age": 18,
+        "subjects": [
+            "Urdu",
+            "English",
+            "Mathematics"
+        ],
+        "students": [],
+        "date": "20-18-2025",
+        "time": "10:12:00",
+        "place": "some place"
+    },
+    {
+        "user_id": 102,
+        "user_name": "KAA",
+        "password": "$2b$12$0Yicw0FGWXh.e0aIwFnN3e9VKznkZPvcDrgjMxh0Q/1eWNpMhuXz.",
+        "name": "kaab",
+        "last_name": "muhammad",
+        "role": "s",
+        "age": 16,
+        "subjects": [
+            "Urdu",
+            "English",
+            "Mathematics"
+        ],
+        "students": []
+    },
+    {
+        "user_id": 103,
+        "user_name": "ROMX",
+        "password": "$2b$12$PpllNCzAO/vI9cbmlgP99.nE.B3IUqfYmQDAta1NCSE4J8s.ISkja",
+        "name": "rom",
+        "last_name": "room",
+        "role": "t",
+        "age": 14,
+        "subjects": [],
+        "students": null,
+        "teacher": false
+    },
+    {
+        "user_id": 104,
+        "user_name": "HUM",
+        "password": "$2b$12$6UQABaate1GPaFjlLeVD1OcnYLX3cufImlMRcLXg6w3iwXe2HwSjG",
+        "name": "Hum",
+        "last_name": "hem",
+        "role": "t",
+        "age": 25,
+        "subjects": [],
+        "students": [
+            "Ibrahim",
+            "kaab"
+        ],
+        "teacher": false,
+        "date": "20-18-2025",
+        "time": "10:12:00",
+        "place": "some place"
+    }
+]
