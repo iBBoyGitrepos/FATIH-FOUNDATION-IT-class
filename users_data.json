@@ -13,9 +13,12 @@
             "Mathematics"
         ],
         "students": [],
-        "date": "20-18-2025",
-        "time": "10:12:00",
-        "place": "some place"
+        "exam": {
+            "subject": "Mathematics", 
+            "date": "20-18-2025", 
+            "time": "10:12:00", 
+            "venue": "some place"
+        }
     },
     {
         "user_id": 102,
